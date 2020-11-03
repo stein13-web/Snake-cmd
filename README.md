@@ -1,4 +1,10 @@
+<<<<<<< HEAD
 # Snake-cmd"Jeu du Snake controller 
+=======
+
+# Snake-cmd
+Jeu du Snake controller 
+>>>>>>> daf1babd4e29ec574b88e01a9a9b7ba8d9963b0b
 
 projet: création d'un jeu comme le snake mais sans collisions avec d'autres joueurs
         mais on peut manger la tête des autres serpents.
